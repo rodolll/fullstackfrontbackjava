@@ -1,0 +1,13 @@
+Proyecto realizado por:
+
+    Ezequiel Di lallo
+    Rodolfo Pusula
+    Pablo Martín Facchinelli
+
+
+Tecnologías utilizadas para el proyecto:
+
+    Front: HTML, CSS, JavaScript, Jquery, Libreria AOS de JavaScript y Bootstrap.
+    Back: Java, Spring, Thymeleaf, Hibernate.
+    Base de datos: Se utilizo SQL y MySql.
+    
